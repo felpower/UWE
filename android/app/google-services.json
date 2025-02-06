@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520106767791",
+    "project_id": "uni-wien-emperors",
+    "storage_bucket": "uni-wien-emperors.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520106767791:android:3692d4f3f1d3ed38d5eb5a",
+        "android_client_info": {
+          "package_name": "felpower.software.emperors"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK8LNKcfyy3zXhq8-YtLrO1uNykGkEgYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
